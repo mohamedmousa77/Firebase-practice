@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822300929247",
+    "project_id": "authentication-social-41e20",
+    "storage_bucket": "authentication-social-41e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822300929247:android:b8391daed736b3bc144d6a",
+        "android_client_info": {
+          "package_name": "com.example.authentication_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fGpOM2dimGwnGsOCxjssfaLPGNwgRTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
